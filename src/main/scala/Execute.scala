@@ -1,4 +1,4 @@
 object Execute extends App {
 val con= new converter
-println(con.translate("XIX", con.dictionary))
+println(con.translate("CCXLVI", con.dictionary))
 }
